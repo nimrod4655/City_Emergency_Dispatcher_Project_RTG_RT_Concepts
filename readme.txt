@@ -12,7 +12,7 @@ Random emergency events generation, dispatcher, police department, ambulance dep
 To run the project:
 
 1. in a terminal, go to
-\City Emergency Project FreeRTOS\FreeRTOS-main\FreeRTOS\Demo\Posix_GCC\
+./City Emergency Project FreeRTOS/
 
 2. enter command
 ./build/posix_demo
