@@ -23,5 +23,5 @@ go to
 
 ./City Emergency Project FreeRTOS/myProject/
 
-and see all souece and header files.
+and see all source and header files.
 ------------------------------------------------------------------
