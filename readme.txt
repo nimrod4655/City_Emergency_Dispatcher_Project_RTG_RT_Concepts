@@ -18,7 +18,10 @@ To run the project:
 ./build/posix_demo
 ------------------------------------------------------------------
 
-[additional commands]
-make clean - clears the last build
-make - build and compile the project
- 
+To review the project's code files:
+go to 
+
+./City Emergency Project FreeRTOS/myProject/
+
+and see all souece and header files.
+------------------------------------------------------------------
